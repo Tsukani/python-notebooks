@@ -1,0 +1,11 @@
+Name;Gender;Courses;imageUrl 
+Jesper;Boy;<__main__.Course object at 0x00000208DDDF6A40> <__main__.Course object at 0x00000208DDDF6AD0> <__main__.Course object at 0x00000208DDDF6A10> ;https://imageLink.com/42 
+Børge;Boy;<__main__.Course object at 0x00000208DDDF6A40> <__main__.Course object at 0x00000208DDDF6AD0> <__main__.Course object at 0x00000208DDDF6A10> ;https://imageLink.com/8 
+navn1;Girl;<__main__.Course object at 0x00000208DDDF6A40> <__main__.Course object at 0x00000208DDDF6AD0> ;https://imageLink.com/80 
+Brian;Boy;<__main__.Course object at 0x00000208DDDF6A40> <__main__.Course object at 0x00000208DDDF6A10> ;https://imageLink.com/82 
+navn5;Girl;<__main__.Course object at 0x00000208DDDF6A40> <__main__.Course object at 0x00000208DDDF6AD0> <__main__.Course object at 0x00000208DDDF6A10> ;https://imageLink.com/10 
+navn4;Girl;<__main__.Course object at 0x00000208DDDF6A10> ;https://imageLink.com/89 
+Jesper;Girl;<__main__.Course object at 0x00000208DDDF6AD0> ;https://imageLink.com/92 
+Jens;Boy;<__main__.Course object at 0x00000208DDDF6AD0> <__main__.Course object at 0x00000208DDDF6A10> ;https://imageLink.com/2 
+Brian;Boy;<__main__.Course object at 0x00000208DDDF6A40> ;https://imageLink.com/3 
+Børge;Girl;<__main__.Course object at 0x00000208DDDF6AD0> ;https://imageLink.com/17 
